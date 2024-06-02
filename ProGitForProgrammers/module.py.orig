@@ -1,0 +1,6 @@
+print("this is module.py")
+<<<<<<< HEAD
+print("this is second function")
+=======
+print("this is second function2")
+>>>>>>> Calculator
